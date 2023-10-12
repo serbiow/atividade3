@@ -1,0 +1,7 @@
+section{
+    display: flex;
+    justify-content: space-evenly;
+}
+#img-card{
+    border-radius: 10px;
+}
